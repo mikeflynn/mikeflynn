@@ -13,6 +13,8 @@ I’m a software engineer focused on building robust backend systems, currently 
 
 [egg.js](https://github.com/mikeflynn/egg.js): A simple JS library for adding easter eggs to web pages. (1.6k+ ⭐)
 
+[Honey Bear Honey Pot](https://github.com/mikeflynn/honeybearhoneypot): A fully functional SSH honeypot with a fun cartoon bear GUI...and it can run on a hard hat! 🐻
+
 [go-alexa](https://github.com/mikeflynn/go-alexa): Amazon Echo / Alexa tools for Go development.
 
 [sensehat-service-ui](https://github.com/mikeflynn/sensehat-service-ui): A physical Raspberry Pi interface for managing services.
